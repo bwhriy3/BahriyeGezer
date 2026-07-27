@@ -4,12 +4,6 @@
   <img alt="profile banner" src="dark.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="profile banner" src="dark.svg">
-</picture>
-
 <h1 align="center">Hi there, I'm Bahriye 👋</h1>
 
 <p align="center">
