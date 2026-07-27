@@ -12,7 +12,7 @@
 
 <br>
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Studying **Software Engineering**
 - 🌱 Currently learning and building projects with **React**, **Node.js** and **PostgreSQL**
@@ -22,7 +22,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -38,20 +38,13 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bwhriy3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bahriye's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwhriy3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bwhriy3&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 <br>
 
-## 🤝 Connect with me
+##  Connect with me
 
 <p align="left">
   <a href="https://github.com/bwhriy3" target="_blank">
